@@ -1,2 +1,2 @@
 # AI Fake News Detector
-Built an ML pipeline using Python and scikit-learn to classify political statements as fake or real using the LIAR dataset. I was able to preprocess data, apply TF-IDF vectorization, and train a logistic regression model achieving ~62% accuracy. I explored deep learning approaches (LSTM/TF) for future extension.
+A machine learning model that classifies political statements as either fake or real using the LIAR dataset. I built a full pipeline in Python using pandas and scikit-learn — preprocessing the data, vectorizing the text with TF-IDF, and training a logistic regression model that reached about 62% accuracy. I also started experimenting with TensorFlow to explore deep learning versions of the project.
